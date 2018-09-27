@@ -12,12 +12,12 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
-title_separator          : "-"
+title                    : "Nathan's Blog"
+title_separator          : "Nathan"
 name                     : "Nathan's Blog"
 description              : "Tech blog"
 url                      : "https://monkey3199.github.io"
@@ -100,9 +100,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Nathan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : ""Nathan's Blog"
   location         : "Somewhere"
   email            :
   links:
