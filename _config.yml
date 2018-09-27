@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Nathan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""Nathan's Blog"
+  bio              : "Nathan's Blog"
   location         : "Somewhere"
   email            :
   links:
