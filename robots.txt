@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://monkey3199.github.io/sitemap.xml
