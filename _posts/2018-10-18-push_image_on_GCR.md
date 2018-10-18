@@ -1,6 +1,6 @@
 ---
 title: "[GCloud] Cloud Registry 이미지 Public으로 공개하기"
-categories: GCloud CloudRegistry public
+
 
 ---
 
