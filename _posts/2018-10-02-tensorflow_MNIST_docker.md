@@ -1,6 +1,6 @@
 ---
 title: "[Tensorflow] MNIST in docker"
-categories: tensorflow, docker, mnist
+categories: develop AI tensorflow
 
 ---
 

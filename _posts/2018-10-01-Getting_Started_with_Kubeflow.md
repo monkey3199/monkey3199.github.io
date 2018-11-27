@@ -1,6 +1,6 @@
 ---
 title: "[Kubeflow] 설치 및 시작"
-categories: kubeflow, kubernetes, minikube
+categories: develop AI kubeflow
 
 ---
 

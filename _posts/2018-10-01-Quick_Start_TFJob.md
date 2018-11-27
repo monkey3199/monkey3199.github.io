@@ -1,6 +1,6 @@
 ---
 title: "[Kubeflow] TFJob Quick Start"
-categories: kubeflow kubernetes tensorflow
+categories: develop AI kubeflow
 
 ---
 

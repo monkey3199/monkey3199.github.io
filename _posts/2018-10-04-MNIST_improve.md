@@ -1,6 +1,6 @@
 ---
 title: "[tensorflow] MNIST 성능 향상시키기"
-categories: tensorflow, MNIST, DNN, xavier initialization, dropout
+categories: develop AI tensorflow
 
 ---
 

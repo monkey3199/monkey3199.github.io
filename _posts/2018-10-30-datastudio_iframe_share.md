@@ -1,6 +1,6 @@
 ---
 title: "[Google] 구글 데이터 스튜디오로 만든 보고서를 iframe으로 삽입하기"
-categories: Google, GCP, Visualization, iframe
+categories: develop etc
 
 ---
 

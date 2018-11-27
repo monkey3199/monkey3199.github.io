@@ -1,7 +1,6 @@
 ---
 title: "[GCloud] Cloud Registry 이미지 Public으로 공개하기"
-
-
+categories: develop cloud gcp
 ---
 
 <h1 id="gcr-이미지-public으로-공개-하기">GCR 이미지 Public으로 공개 하기</h1>
