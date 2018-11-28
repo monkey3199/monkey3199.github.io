@@ -9,7 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: "Nathan's Blog_test"
+title: "Nathan's Blog"
 subtitle: "The blog to learn more"
 email: monkey3199@gmail.com
 name: Nathan Kwon
@@ -22,7 +22,6 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://monkey3199.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
-pages: test
 
 # Build settings
 markdown: kramdown
