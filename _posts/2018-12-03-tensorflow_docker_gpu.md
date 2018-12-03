@@ -1,6 +1,6 @@
 ---
-extensions:
-  preset: ''
+title: "[TensorFlow] 텐서플로우 도커에서 GPU 사용하기"
+categories: develop AI tensorflow
 
 ---
 
