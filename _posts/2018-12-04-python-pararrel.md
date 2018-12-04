@@ -133,7 +133,9 @@ multiprocessing 모듈의 가장 큰 **장점**은 threding 모듈과 구현 방
 
 ## 참고
 
-[예제로 배우는 Python 프로그래밍 - 쓰레드]: http://pythonstudy.xyz/python/article/24-%EC%93%B0%EB%A0%88%EB%93%9C-Thread
-[파이썬으로 클라우드가 하고 싶어요 - 하용호]: https://www.slideshare.net/kthcorp/h32011c6pythonandcloud-111205023210phpapp02
-[파이썬 분산 컴퓨팅]: http://acornpub.co.kr/book/distributed-computing
+[예제로 배우는 Python 프로그래밍 - 쓰레드](http://pythonstudy.xyz/python/article/24-%EC%93%B0%EB%A0%88%EB%93%9C-Thread )
+
+[파이썬으로 클라우드가 하고 싶어요 - 하용호](https://www.slideshare.net/kthcorp/h32011c6pythonandcloud-111205023210phpapp02 )
+
+[파이썬 분산 컴퓨팅](http://acornpub.co.kr/book/distributed-computing  )
 
