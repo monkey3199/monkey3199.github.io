@@ -1,3 +1,8 @@
+---
+title: "[GCP] GKE(Google Kubernetes Engine)에서 텐서플로우 GPU 실행하기"
+categories: develop cloud gcp
+---
+
 # GKE(Google Kubernetes Engine) 에서 텐서플로우 GPU 실행하기
 
 지난번에 nvidia-docker를 이용해서 도커 컨테이너 내부에서 GPU를 사용하는 [예제](https://monkey3199.github.io/develop/ai/tensorflow/2018/12/03/tensorflow_docker_gpu.html)를 포스팅했었다. 이번엔 **GKE** 환경에서 동작하는 컨테이너가 **GPU를** 사용하는 방법에 대해서 설명하겠다.
@@ -8,7 +13,7 @@
 
 GCP의 Kubernetes Engine 메뉴에 들어가서 클러스터 만들기를 선택하면 클러스터 템플릿을 선택할 수 있다. 이 중에 **GPU 가속 컴퓨팅** 템플릿을 선택하자.
 
-![image-20181207155638712](/Users/nathan/Documents/개인/블로그/githupblog/assets/images/image-20181207155638712-4165798.png)
+![image-20181207155638712](https://monkey3199.github.io/assets/images/image-20181207155638712-4165798.png)
 
 적절한 노드의 숫자를 선택해 클러스터를 만들자. 테스트에서는 micro-pool 1개 gpu-pool 1개로 클러스터를 생성했다.
 
@@ -18,7 +23,7 @@ GCP의 Kubernetes Engine 메뉴에 들어가서 클러스터 만들기를 선택
 
 gpu-pool에 있는 모든 노드에 NVIDIA 그래픽 **드라이버**를 설치해줘야 노드에서 실행되는 컨테이너들이 GPU를 사용할 수 있다. 다행히도 GKE에서 친절하게 미리 정의된 yaml 파일을 제공한다. 먼저 클러스터에 연결하기 위해 다음과 같이 **연결 버튼**을 눌러 Cloud Shell에서 실행을 클릭하면 Google Cloud Shell이 연결되고 연결 커맨드가 자동 복붙된다(진짜 편함. GKE 짱).
 
-![image-20181207165738165](/Users/nathan/Documents/개인/블로그/githupblog/assets/images/image-20181207165738165-4169458.png)
+![image-20181207165738165](https://monkey3199.github.io/assets/images/image-20181207165738165-4169458.png)
 
 ```bash
 $ kubectl apply -f https://raw.githubusercontent.com/GoogleCloudPlatform/container-engine-accelerators/stable/nvidia-driver-installer/cos/daemonset-preloaded.yaml
