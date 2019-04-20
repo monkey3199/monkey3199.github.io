@@ -1,8 +1,14 @@
+---
+title: "[Career] 첫번째 이직 성공기 - 1"
+categories: carrer
+
+---
+
 # 첫번째 이직 성공기 - 1
 
 **이직**. 회사에서 못견디게 힘들어서 언제나 사직서를 품고 다니다 이직하거나, 혹은 직군을 다른 분야로 변경해서 이직하거나, 또는 스카우트를 받아 연봉 측면에서 큰 성공을 이루고 이직하는 등의 다양한 모습이다.
 
-![img](http://postfiles10.naver.net/20160517_89/neotenu83_1463452031227OzdpW_JPEG/bdanglknalgknh.jpg?type=w966)
+![출처: 웹툰 마음의 소리](https://github.com/monkey3199/monkey3199.github.io/blob/master/assets/images/2019-04-20-first-career-1.png)
 
 
 
