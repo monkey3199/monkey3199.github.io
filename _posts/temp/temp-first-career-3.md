@@ -1,5 +1,5 @@
 ---
-title: "[Career] 흔한 개발자의 첫번째 이직 성공기 - 2"
+title: "[Career] 흔한 개발자의 첫번째 이직 성공기 - 3"
 categories: carrer
 
 ---
