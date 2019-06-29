@@ -13,13 +13,13 @@ categories: python library
 
 다음으로 간단한 예제를 통해서 어떻게 동작하는지 알아보자. 지금부터 나오는 예제들은 모두 Click의 [공식사이트](https://click.palletsprojects.com/en/7.x/)를 참고했으며 python 3.6에서 테스트했다. 먼저 pip 를 이용해서 click 을 설치한다.
 
-```
+```bash
 $ pip install click
 ```
 
 설치를 완료했으면 아래의 코드로 샘플 프로그램을 만들어보자.
 
-```python  
+```python
 import click
 
 @click.command()
