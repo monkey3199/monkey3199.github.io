@@ -1,6 +1,6 @@
 ---
 title: "[Career] 흔한 개발자의 첫번째 이직 성공기 - 1"
-categories: carrer
+categories: career
 
 ---
 
